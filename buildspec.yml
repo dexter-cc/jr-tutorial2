@@ -5,7 +5,7 @@ phases:
     runtime-versions:
       python: 3.7
     commands:
-        - curl -O https://bootstrap.pypa.io/get-pip.py
+        - curl -O https://bootstrap.pypa.io/pip/3.4/get-pip.py
         - python3 get-pip.py --user
         - python3 -m pip --version
         - python3 -m pip install Flask
