@@ -1,3 +1,3 @@
 # jr-tutorial2
 
-$Added pipeline for Jenkins
+$sAdded pipeline for Jenkins
